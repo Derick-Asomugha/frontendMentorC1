@@ -4,7 +4,7 @@ This is my completed solution for the **Results Summary Component** challenge fr
 
 ## 🔗 Live Demo
 
-> *(Add link here once deployed — for example a Vercel link)*
+(https://frontend-mentor-c1-zeta.vercel.app)
 
 ## 📸 Preview
 
